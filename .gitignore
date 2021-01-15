@@ -1,0 +1,5 @@
+# Project exclude paths
+/vue3ts/src/router/index.js
+/vue3ts/src/router/index.js.map
+/vue3ts/src/main.js
+/vue3ts/src/main.js.map
